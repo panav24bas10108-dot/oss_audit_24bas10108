@@ -3,7 +3,7 @@
 ##  Student Details
 
 * *Name:* Panav
-* *Registration Number:* 24BAS10108
+* *Registration Number:* 24bas10108
 * *Course:* Open Source Software
 * *Project Title:* Open Source Audit — Git
 
@@ -83,7 +83,7 @@ git clone <your-repository-link>
 2. Navigate to the project folder:
 
 bash
-cd oss-audit-24BAS10108
+cd oss-audit-24bas10108
 
 
 3. Give execution permission:
@@ -107,7 +107,7 @@ bash
 ##  Project Structure
 
 
-oss-audit-24BAI10394/
+oss-audit-24bas10108/
 │
 ├── script1.sh
 ├── script2.sh
